@@ -203,7 +203,7 @@ Timer #6, id 1488667697356 (ts: 2017-03-04 23:48:17.355999)
 ### Cleaning history
 
 ```
-$ mirobo cleaning_history
+$ mirobo cleaning-history
 Total clean count: 43
 Clean #0: 2017-03-05 19:09:40-2017-03-05 19:09:50 (complete: False, unknown: 0)
   Area cleaned: 0.0 m²
